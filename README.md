@@ -3,7 +3,7 @@
 I'm a Computer Engineering Student at University of Guadalajara (UDG) who is very enthusiast about CS and Science topics, specially Physics and AI <br>
 I want to learn everything I can about what I like and continue studying to discover what is yet to be discovered
 
-### 💫 Currents:
+## 💫 Currents:
 🔭 I’m currently working on: Pokemon Battle Engine<br>👯 I’m looking to collaborate on: Internships or AI/Game Development Projects<br>🌱 I’m currently learning: Tensorflow, SFML and MERN's stack<br>
 
 
