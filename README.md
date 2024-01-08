@@ -15,7 +15,6 @@ I want to learn everything I can about what I like and continue studying to disc
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ldltorre14&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ldltorre14&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ldltorre14&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ldltorre14&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
