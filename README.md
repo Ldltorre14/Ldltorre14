@@ -1,10 +1,12 @@
 # Hi, I'm Leo
 ## 💫 About Me:
-I'm a Computer Engineering Student at University of Guadalajara (UDG) who is very enthusiast about CS and Science topics, specially Physics and AI <br>
-I want to learn everything I can about what I like and continue studying to discover what is yet to be discovered
+I'm a Computer Engineering Student at University of Guadalajara (UDG) who is very enthusiast about CS and Science topics, specially AI, Math and Physics <br>
+I want to a learn more about broad variety of topics, but specially about Artificial Intelligence
 
 ## 💫 Currents:
-🔭 I’m currently working on: Pokemon Battle Engine<br>👯 I’m looking to collaborate on: Internships or AI/Game Development Projects<br>🌱 I’m currently learning: Tensorflow, SFML and MERN's stack<br>
+🔭 I’m currently working on: Pokemon Battle Engine<br>
+👯 I’m looking to collaborate on: Nothing in specific (feel free to reach me)<br>
+🌱 I’m currently learning: Neural Networks, Physics simulations and Distributed Systems <br>
 
 
 ## 🌐 Socials:
