@@ -1,5 +1,5 @@
 # Hi, I'm Leo
-## 💫 About Me:
+## 💫 About Me: 
 I'm a Computer Engineering Student at University of Guadalajara (UDG) who is very enthusiast about CS and Science topics, specially AI, Math and Physics <br>
 I want to a learn more about broad variety of topics, but specially about Artificial Intelligence
 
