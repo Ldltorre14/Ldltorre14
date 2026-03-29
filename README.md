@@ -14,14 +14,16 @@ I'm a **Computer Engineering student** at the University of Guadalajara (UDG) wi
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFA000?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
 
-### ⚙️ Systems & Backend
+### ⚙️ Systems & Graphics
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-%238CC445.svg?style=for-the-badge&logo=sfml&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Frontend & Tools
@@ -32,22 +34,22 @@ I'm a **Computer Engineering student** at the University of Guadalajara (UDG) wi
 
 ---
 
-## 📊 Performance Metrics
+## 📊 Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ldltorre14&theme=radical&show_icons=true&count_private=true" alt="Leo's Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ldltorre14&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_bust=1" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-### 🏆 Trophies & Contributions
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ldltorre14&theme=dracula&no-frame=false&margin-w=4" alt="Trophies" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Ldltorre14&theme=radical&show_icons=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ldltorre14&theme=radical&mode=daily)
+
+</div>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-octavio-perez-de-la-torre-164a6b23b)
+
+<p align="left">
+<a href="https://linkedin.com/in/leonardo-octavio-perez-de-la-torre-164a6b23b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=Ldltorre14&icon=2&color=0)](https://visitcount.itsvg.in)
