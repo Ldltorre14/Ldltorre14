@@ -1,7 +1,7 @@
 # Hi, I'm Leo 👋
 
 ## 💫 About Me
-I'm a **Computer Engineering student** at the University of Guadalajara (UDG) with a deep passion for the intersection of Computer Science and Science. I specialize in **Artificial Intelligence**, Mathematics, and Physics simulations.
+I'm a **Computer Engineering student** at the University of Guadalajara (UDG) with a deep passion for the intersection of Computer Science and AI. I specialize in **Artificial Intelligence**, **Distributed Systems** and **Internet of Things**
 
 * 🔭 **Currently working on:** [Pokemon Battle Engine](https://github.com/Ldltorre14) — *Building a robust logic engine from scratch.*
 * 🌱 **Learning Path:** Deepening my knowledge in Neural Networks, Distributed Systems, and Computational Physics.
