@@ -38,9 +38,9 @@ I'm a **Computer Engineering student** at the University of Guadalajara (UDG) wi
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ldltorre14&theme=radical&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ldltorre14&theme=radical&show_icons=true&count_private=true" alt="Leo's GitHub Stats" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ldltorre14&theme=radical&mode=daily)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ldltorre14&theme=radical&count_private=true" alt="GitHub Streak" />
 
 </div>
 
